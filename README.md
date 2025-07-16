@@ -41,5 +41,5 @@ Currently, I'm working on a personal project called **HabTracker**, focused on h
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreprodrigues0512/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-rodrigues-2b526a285/)
 - 🌐 [Portfolio (em breve)]

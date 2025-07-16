@@ -34,8 +34,8 @@ Currently, I'm working on a personal project called **HabTracker**, focused on h
 
 ## 📊 GitHub Stats
 
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRodrigues884&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodrigues884E&layout=compact&theme=radical)
 
 ---
 

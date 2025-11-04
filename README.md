@@ -2,7 +2,7 @@
 
 I'm a Software Developer and UI/UX Designer with a degree in Web Information Systems and Technologies. I’m passionate about building clean, efficient, and scalable solutions using modern technologies.
 
-Currently, I'm working on a personal project called **HabTracker**, focused on habit tracking and user motivation through gamification.
+Currently, I'm working on a personal project called **CV Builder**, focused on generate CVs with AI.
 
 
 ---

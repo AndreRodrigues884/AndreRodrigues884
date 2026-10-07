@@ -30,9 +30,15 @@ I'm a Software Engineer with a degree in Web Information Systems and Technologie
 ---
  
 ## 📊 GitHub Stats
- 
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRodrigues884&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodrigues884&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreRodrigues884&show_icons=true&theme=radical&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodrigues884&layout=compact&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AndreRodrigues884&theme=radical" width="100%" />
+</p>
  
 ---
  
